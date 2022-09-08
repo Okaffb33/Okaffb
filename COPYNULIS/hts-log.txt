@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 08 Sep 2022 10:00:51 at https://abrahamgans.github.io/x3/nulisv2.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://abrahamgans.github.io/x3/nulisv2.html -O1 "C:\My Web Sites\COPYNULIS" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:00:59	Error: 	"Not Found" (404) at link https://abrahamgans.github.io/x3/Abraham Benedick.png (from https://abrahamgans.github.io/x3/nulisv2.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 seconds : 15 links scanned, 13 files written (4626723 bytes overall) [913876 bytes received at 114234 bytes/sec], 4545212 bytes transferred using HTTP compression in 14 files, ratio 17%, 1.6 requests per connection
+(1 errors, 0 warnings, 0 messages)
